@@ -1,0 +1,48 @@
+button, div, form, input {
+	margin: 5px;
+}
+
+img {
+	max-width: 200px;
+	max-height: 200px;
+}
+
+label {
+    color: rgb(0, 255, 242);
+}
+
+.btn-default {
+    color: #000;
+    font-size: medium;
+}
+
+body {
+	background-image: url("../images/Background.png");
+    font-family: 'Pattaya', sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.holder {
+    float: left;
+}
+
+.jumbotron {
+    text-align: center;
+    /*color: aqua;*/
+   
+    background-color: rgba(10, 10, 10, 0);
+}
+
+
+.jumbotron h1 {
+    
+        font-size: 72px;
+        background: -webkit-linear-gradient(rgb(0, 110, 253), rgb(0, 255, 234));
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      
+}
+
+
+
