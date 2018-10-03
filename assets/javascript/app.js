@@ -49,6 +49,7 @@ $(document).ready(function(){
             newButton.attr("data-name", displayedButtons[i]); 
             newButton.text(displayedButtons[i]); 
             $("#display-buttons").append(newButton); 
+            
         }
     }
 
