@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-    var displayedButtons = ["Redwoods National Park", "Arches National Park", "Yellowstone National Park"];
+    var displayedButtons = ["Redwoods National Park", "Arches National Park", "Yellowstone National Park", "Yosemite National Park", "Smokey The Bear"];
 
     function displayImg(){
 
